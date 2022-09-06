@@ -1,1 +1,1 @@
-10. No more javascript
+11. Dont just count your directories, make your directories count
