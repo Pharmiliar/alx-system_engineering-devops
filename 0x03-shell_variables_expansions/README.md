@@ -1,1 +1,1 @@
-17. I,m an instant star. Just add water and stir.
+6. Local variable
