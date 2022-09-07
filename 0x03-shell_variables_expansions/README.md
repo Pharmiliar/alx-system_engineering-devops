@@ -1,1 +1,1 @@
-16. The eggs of the brood need to be an odd number
+15. Everyone is a proponent of strong encryption
