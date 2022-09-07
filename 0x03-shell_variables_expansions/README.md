@@ -1,1 +1,1 @@
-7. Global variable
+17. I,m an instant star. Just add water and stir.
